@@ -35,13 +35,14 @@ The website is fully responsive and tested on:
 ```
 shaif-arfan/
 ├── index.html          # Main HTML file
-├── css/
-│   ├── style.css       # Main stylesheet
-│   └── responsive.css  # Responsive design rules
-├── js/
-│   └── script.js       # JavaScript functionality
-├── images/
-│   └── ...             # Image assets
+├── assets/
+│   ├── css/
+│   │   ├── style.css       # Main stylesheet
+│   │ 
+│   ├── js/
+│   │   └── script.js       # JavaScript functionality
+│   └── imgs/
+│       └── ...             # Image assets
 └── README.md           # Project documentation
 ```
 

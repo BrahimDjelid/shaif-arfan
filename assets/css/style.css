@@ -93,7 +93,7 @@ img {
   top: 0;
   left: 0;
   width: 100vw;
-  height: auto;
+  height: 10vh;
 }
 
 #header .header {
@@ -501,7 +501,7 @@ img {
 
 #contact .contact-items {
   margin-top: 50px;
-  width: 400px;
+  width: 350px;
 }
 
 #contact .contact-items .box {
